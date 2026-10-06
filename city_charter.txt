@@ -1,0 +1,31 @@
+=========================================
+CITY OF METROPOLIS MUNICIPAL CHARTER
+ARTICLE IX: CIVIC SERVICES STANDARD OPERATING PROCEDURES & CITIZEN RIGHTS
+=========================================
+
+[SECTION 9.1: WATER AND SEWAGE GRIEVANCES]
+All citizen reports concerning public water system leakage, broken water pipelines, wastewater overflow, or sewer blockage must be assessed immediately by the Metropolis Water Operations Department.
+- Critical Event SLA: Burst pipelines or flood-inducing sewage backups represent hazardous situations. Technical teams must deploy within 12 hours, with an expected resolution time of 1 Business Day (24 hours). (Rule reference: Sewage Safety & Health Regulation Code Sec. 8-A)
+- High Event SLA: Minor sewage leakage or water flow disruptions must be resolved within 3 Business Days. (Code Sec. 8-B)
+- Standard Event SLA: Standard clean water leakage, dripping valves, or fire hydrant maintenance must be completed within 5 Business Days. (Code Sec. 8-C)
+
+[SECTION 9.2: ROADS AND TRANSPORTATION ORAL CODES]
+Grievances including street asphalt degradation, potholes, missing signage, traffic light defects, and pedestrian pathway repairs belong to the Department of Roads and Public Transport.
+- Critical Event SLA: Traffic light failures at main intersections or structural damage to bridges must be addressed within 1 Business Day. (Road Maintenance Act Sec. 12-A)
+- High Event SLA: Major driving lane potholes or blocked roads due to debris must be resolved within 3 Business Days. (Road Maintenance Act Sec. 12-B)
+- Standard Event SLA: Residential road potholes, sidewalk cracks, or roadside curb repairs have an expected resolution time of 5 Business Days. (Road Maintenance Act Sec. 12-C)
+
+[SECTION 9.3: SANITATION AND SOLID WASTE SERVICE CODE]
+The Sanitation Department manages rubbish cleanup, municipal waste bins, illegal dumping reports, and industrial trash remediation.
+- Standard Event SLA: Residential waste collection failures, overflowing municipal trash cans, or garbage piles in alleys must be cleared within 2 Business Days. (Waste Control Ordinance Sec. 15-D)
+- High Issue SLA: Debris blocking road passages or illegal toxic waste dumping must be addressed within 1 Business Day, with remediation taking up to 3 Business Days. (Waste Control Ordinance Sec. 15-E)
+
+[SECTION 9.4: STREET LIGHTING MAINTENANCE POLICY]
+All public pathways and roadway lighting illumination is monitored by the Metropolis Power and Grid Division.
+- Standard Event SLA: Non-functional streetlights causing dark street sectors or individual bulb replacements must be completed within 2 Business Days. (Public Lighting Safety Code Sec. 4-J)
+- High Event SLA: Complete block blackouts or exposed electrical wires on streetlight poles represent critical safety threats and must be resolved within 1 Business Day. (Public Lighting Safety Code Sec. 4-K)
+
+[SECTION 9.5: PARKS AND FORESTRY CODE]
+Tree trimming, fallen branch removal on community lanes, and public park grass upkeep are handled by the Parks Management Department.
+- High Event SLA: Large fallen trees or heavy branches blocking vehicle lanes or leaning on utility lines must be cleared within 1 Business Day. (Greenspace Safety Code Sec. 22-V)
+- Standard Event SLA: Overgrown weeds, park trash cleanup, or tree limb maintenance requests must be resolved within 10 Business Days. (Greenspace Safety Code Sec. 22-W)
